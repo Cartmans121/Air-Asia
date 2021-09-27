@@ -1,0 +1,60 @@
+
+.main-page-wrapper {
+    background: url("./img/background_elephant.png") center top no-repeat, 
+    url("./img/background_mountains.png") right bottom 311px no-repeat;
+}
+
+
+.socials__item--icon--telegram .socials__link {
+    background: url("./img/icons/telegram.png");
+}
+
+.socials__item--icon--telegram .socials__link:hover {
+    background: url("./img/icons/telegram222.png");
+}
+
+.socials__item--icon--vk .socials__link {
+    background: url("./img/icons/vk.png");
+}
+
+.socials__item--icon--vk .socials__link:hover {
+    background: url("./img/icons/vk111.png");
+}
+.socials__item--icon--fb .socials__link {
+    background: url("./img/icons/faceb.png");
+}
+
+.socials__item--icon--fb .socials__link:hover {
+    background: url("./img/icons/faceb222.png")
+}
+.socials__item--icon--insta .socials__link {
+    background: url("./img/icons/in.png");
+}
+
+.socials__item--icon--insta .socials__link:hover {
+    background: url("./img/icons/in222.png");
+}
+
+.about:before {
+    content: "";
+    display: inline-block;
+    vertical-align: top;
+    width: 488px;
+    height: 502px;
+    background: url(./img/gates.png) center center / cover no-repeat;
+}
+
+.about__desc {
+    background: url(./img/mountains.png);
+    padding: 104px 141px;
+    display: inline-block;
+    vertical-align: top;
+    width: 783px;
+    margin-left: -143px;
+    margin-top: 99px;
+}
+
+.logo {
+    margin-right: 79px;
+    width: 100%;
+}
